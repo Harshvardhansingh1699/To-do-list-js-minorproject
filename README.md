@@ -11,7 +11,7 @@
 
 ## Website Link
 
-[https://teal-panda-4a9729.netlify.app/](https://teal-panda-4a9729.netlify.app/)
+https://62eab7fa88723d0f31e866e7--lighthearted-belekoy-118d58.netlify.app/
 
 ## Contribute
 
